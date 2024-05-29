@@ -557,7 +557,7 @@ PrefabInstance:
         type: 3}
       propertyPath: kitchenObjectSO_GameObjects.Array.data[3].kitchenObject
       value: 
-      objectReference: {fileID: 11400000, guid: 4dc2560833e5ce042bda72f2c1111271,
+      objectReference: {fileID: 11400000, guid: ca2ba1c68f9b6da46932d788181c23f4,
         type: 2}
     - target: {fileID: 216771520954734739, guid: 10e39c981f2de6441b54efde32ced8f0,
         type: 3}

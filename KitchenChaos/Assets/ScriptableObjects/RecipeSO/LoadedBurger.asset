@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22678678038a13b4f99bb44466f8149f, type: 3}
+  m_Name: LoadedBurger
+  m_EditorClassIdentifier: 
+  kitchenObjects:
+  - {fileID: 11400000, guid: c03d18afb306a0242ad262dd0c995606, type: 2}
+  - {fileID: 11400000, guid: f4c7febdfe906d94596d7b283ef6efb4, type: 2}
+  - {fileID: 11400000, guid: ca2ba1c68f9b6da46932d788181c23f4, type: 2}
+  - {fileID: 11400000, guid: a7c04ec8cfb0f2246b235a3036b8f510, type: 2}
+  - {fileID: 11400000, guid: 4dc2560833e5ce042bda72f2c1111271, type: 2}
+  RecipeName: Loaded Burger
