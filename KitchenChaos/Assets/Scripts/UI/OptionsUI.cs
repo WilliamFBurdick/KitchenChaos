@@ -58,6 +58,7 @@ public class OptionsUI : MonoBehaviour
         closeButton.onClick.AddListener(() =>
         {
             Hide();
+            onCloseOptions();
         });
 
         moveUpButton.onClick.AddListener(() =>
@@ -144,7 +145,6 @@ public class OptionsUI : MonoBehaviour
 
     public void Hide()
     {
-        onCloseOptions();
         gameObject.SetActive(false);
     }
 
